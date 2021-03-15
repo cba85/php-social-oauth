@@ -1,5 +1,7 @@
 # Social authentification example
 
+> For demonstration purpose only
+
 Using github and Facebook OAuth services.
 
 ## Install
